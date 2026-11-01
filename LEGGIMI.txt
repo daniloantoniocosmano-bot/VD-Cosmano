@@ -1,0 +1,17 @@
+V&D COSMANO – SITO DIMOSTRATIVO
+
+Apri index.html in un browser per visualizzare il sito.
+Per pubblicarlo su GitHub Pages: carica TUTTI i file e la cartella assets nella radice di un repository, poi vai in Settings > Pages > Deploy from a branch > main > / (root).
+
+Già funzionanti:
+- telefono ristorante: +39 338 119 9236
+- prenotazione camere: https://casacosmano.it
+- navigazione, menu smartphone, sezioni descrittive
+
+DA COMPLETARE PRIMA DELLA PUBBLICAZIONE DEFINITIVA:
+- inserire fotografie REALI delle camere (attualmente la sezione contiene un riquadro grafico segnaposto)
+- aggiungere informazioni societarie e fiscali obbligatorie (es. partita IVA, sede legale), informativa privacy e cookie se applicabili
+- verificare i testi e le caratteristiche delle strutture
+- confermare l'uso pubblico della fotografia con persone ritratte
+
+Il sito non installa cookie analitici e non raccoglie dati tramite form. Usa però Google Fonts caricati da server esterni: valutare self-hosting dei font e informazioni privacy appropriate.
